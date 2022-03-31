@@ -17,3 +17,9 @@ git status(list all untracked file)
 5.) git remote -v (to check if its ready  to fetch and push)
 
 6.) git push -u spacename master(push to git)
+
+when updating the existing file
+------------------
+2.) git add -A(add file to staging medium)
+3.) git commit -m "your message" (adding file to local medium)
+6.) git push  spacename master(push to git)
